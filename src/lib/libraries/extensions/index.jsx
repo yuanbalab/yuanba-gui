@@ -138,7 +138,7 @@ export default [
             />
         ),
         extensionId: 'translate',
-        collaborator: 'Google',
+        collaborator: 'YuanbaLab',
         iconURL: translateIconURL,
         insetIconURL: translateInsetIconURL,
         description: (
